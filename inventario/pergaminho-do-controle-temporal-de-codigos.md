@@ -29,6 +29,10 @@ _📜 Este antigo pergaminho contém conhecimentos ancestrais sobre a manipulaç
 | Switch                   | Focado na troca e criação de branches. Permite "viajar" entre diferentes branches do seu código.                              |
 | Restore                  | Restaura arquivos para o estado anterior, seja desfazendo mudanças ou removendo-os da staging area.                           |
 | Merge                    | Une alterações de uma branch com outra.                                                                                       |
+| Reset                    | Retira o ultimo commit e deixa os arquivos fora da área de preparação                                                         |
+| Reset soft + hash commit | Volta para o commit da hash, porém não modifica nenhum arquivo, porém deixa eles na área de preparação                        |
+| Reset hard + hash commit | Volta para o commit da hash, porém apaga as mudanças dos commits posteriores                                                  |
+
 
 ### 💫 Magias Avançadas
 
